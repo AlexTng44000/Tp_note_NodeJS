@@ -50,5 +50,5 @@ Fonctionnalités implémentées
 # Requête POST pour rajouter des emargements
 ![image](https://github.com/user-attachments/assets/4588fb08-b963-4f1f-919a-23ba0ad3eefe)
 
-# Requete GET pour voir si le POST à fonctionner
+# Requete GET pour voir si le POST à fonctionné
 ![image](https://github.com/user-attachments/assets/a4d8527e-72b9-4b61-8ee6-0374c4782d0b)
